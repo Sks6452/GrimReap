@@ -35,7 +35,7 @@ No cloudflared binary needed — it will be downloaded on first use.
 
 ```bash
 git clone https://github.com/Sks6452/GrimReap
-cd Grimreap
+cd ~/GrimReap
 bash Grimreap.sh
 ```
 
