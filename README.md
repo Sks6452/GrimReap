@@ -1,4 +1,4 @@
-# BLACKEYE - Educational Phishing Simulation Toolkit
+# GRIMREAP - Educational Phishing Simulation Toolkit
 
 A simple, all-in-one tool for cybersecurity awareness training. Simulate credential‑harvesting attacks with 33 realistic login pages, live visitor tracking, and an integrated spear‑phishing email sender - all from a single terminal menu.
 
@@ -34,12 +34,12 @@ No cloudflared binary needed — it will be downloaded on first use.
 ## Installation
 
 ```bash
-git clone https://github.com/whoamitang/Blackeye
-cd Blackeye
-bash blackeye.sh
+git clone https://github.com/Sks6452/GrimReap
+cd Grimreap
+bash Grimreap.sh
 ```
 
-That's it. The only file you need to run is `blackeye.sh`.
+That's it. The only file you need to run is `Grimreap.sh`.
 
 ---
 
@@ -48,7 +48,7 @@ That's it. The only file you need to run is `blackeye.sh`.
 Run:
 
 ```bash
-bash blackeye.sh
+bash Grimreap.sh
 ```
 
 From the main menu, pick a phishing page (e.g. `01` for Instagram) or `E` for the email crafter.
