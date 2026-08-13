@@ -38,7 +38,7 @@ summary() {
 banner() {
     clear
     printf "%s╔══════════════════════════════════════╗%s\n" "$R" "$N"
-    printf "%s║%s          BLACKEYE                %s║%s\n" "$R" "$W" "$R" "$N"
+    printf "%s║%s          GRIMREAP                %s║%s\n" "$R" "$W" "$R" "$N"
     printf "%s║%s    Educational & learning tool   %s║%s\n" "$R" "$Y" "$R" "$N"
     printf "%s╚══════════════════════════════════════╝%s\n\n" "$R" "$N"
 }
@@ -274,7 +274,7 @@ EOF
     cat > "$test_tmp" << EOF
 From: <$FROM_EMAIL>
 To: <$FROM_EMAIL>
-Subject: BLACKEYE SMTP test
+Subject: GRIMREAP SMTP test
 
 Test connection for educational demonstration.
 EOF
