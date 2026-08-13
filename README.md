@@ -118,24 +118,11 @@ Press `Ctrl+C` to stop the server and view a quick session summary.
 
 ## Legal Disclaimer
 
-Usage of BlackEye for attacking targets without prior mutual consent is illegal. The end user is solely responsible for obeying all applicable local, state, and federal laws. The developers assume no liability for any misuse or damage caused by this program. Use only in authorised training environments.
+Usage of GrimReap for attacking targets without prior mutual consent is illegal. The end user is solely responsible for obeying all applicable local, state, and federal laws. The developers assume no liability for any misuse or damage caused by this program. Use only in authorised training environments.
 
 ---
 
-## Credits
 
-### Original Codebase
-
-- BLACKEYE v1.0 — created by `@thelinuxchoice`
-- 32 templates + 1 custom — upgraded by `@suljot_gjoka`
-
-### Phishing Page Authors
-
-- Instagram — `An0nUD4Y`
-- Facebook, Google, Snapchat, Twitter, Microsoft — Social Fish (`UndeadSec`)
-- PayPal, eBay, CryptoCurrency, Verizon, Dropbox, Adobe ID, Shopify, Messenger, Twitch, MySpace, Badoo, VK, Yandex, DeviantArt — `@suljot_gjoka`
-
-### v3.x Extensions
 
 Spear-phishing email module, SMTP integration, geolocation enrichment, tunnel method selection, visitor deduplication, device detection, session summary, and educational disclaimers.
 
